@@ -7,3 +7,8 @@ echo "venkat"
 git
 github
 linux
+hello 
+hyd
+vijawada
+vizag
+tirupathi
